@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c535f630-257e-4ceb-ac4e-86992d6b0295" name="Changes" comment="Committing  my initial project files.">
+    <list default="true" id="c535f630-257e-4ceb-ac4e-86992d6b0295" name="Changes" comment="Added a getter/setter and toString">
       <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/SDEV372_work.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/making_changes/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/making_changes/Point.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672858260950</updated>
-      <workItem from="1672858262893" duration="315000" />
+      <workItem from="1672858262893" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary="Committing  my initial project files.">
       <created>1672858471077</created>
@@ -57,7 +57,28 @@
       <option name="project" value="LOCAL" />
       <updated>1672858471077</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added a Point class to represent (x,y) coordinates.">
+      <created>1672858718463</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672858718463</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added a Point class to represent (x,y) coordinates.">
+      <created>1672858795739</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672858795739</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added a getter/setter and toString">
+      <created>1672858847420</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672858847420</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +97,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Committing  my initial project files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Committing  my initial project files." />
+    <MESSAGE value="Added a Point class to represent (x,y) coordinates." />
+    <MESSAGE value="Added a getter/setter and toString" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a getter/setter and toString" />
   </component>
 </project>
